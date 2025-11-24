@@ -1,16 +1,13 @@
-Welcome to IDEasy!
-We have automatically installed your local IDE for this project now.
+Welcome to Java Backend Advanced training!
+IDEasy has automatically installed your local IDE for this project now.
 This includes all tools needed for your daily development work as well as plugins needed for your IDEs.
-Also git code repositories can be cloned automatically during the setup.
+Also git code repositories have been cloned automatically during the setup.
 
-These are the IDE settings for IDEasy itself.
-If you want to create your own project based on IDEasy read this documentation:
-https://github.com/devonfw/IDEasy/blob/main/documentation/usage.adoc#admin
 If you just want to use IDEasy as a developer, you should first switch to your new project
 
-icd IDEasy
+icd -p java-quarkus
 
-(in case you called 'ide create IDEasy -' before)
+(in case you called `ide create java-quarkus https://github.com/devonfw-training/java-quarkus-settings.git` before)
 
 Then you can start your favourite IDE by typing e.g.
 
