@@ -13,7 +13,7 @@ Then you can start your favourite IDE by typing e.g.
 
 ide intellij
 
-(or 'ide eclipse', 'ide vscode', 'ide android-studio', 'ide pycharm', ...)
+(or 'ide eclipse', ...)
 For details check the help:
 
 ide help
